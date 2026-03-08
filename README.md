@@ -76,4 +76,4 @@ Strategic HR Decisions
 Organizations can use these insights to improve hiring strategies, employee engagement programs, and compensation policies.
 Data-Driven HR
 The dashboard transforms raw employee data into actionable insights, enabling HR teams to make smarter workforce decisions.
-![HR Dashboard](HR-analytics-dashboard-snapshot.png)
+
