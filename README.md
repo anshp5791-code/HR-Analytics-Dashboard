@@ -1,3 +1,4 @@
+*Description*
 # HR-Analytics-Dashboard
 The HR Attrition Analytics Dashboard is a comprehensive Microsoft Power BI report designed to analyze employee attrition across different departments, age groups, job roles, and salary levels. it provides HR professionals and decision-makers with a clear understanding of workforce behavior, enabling them to identify high-risk attrition areas
 ⚙️ Tech Stack
@@ -18,7 +19,7 @@ The dashboard was built using the following tools and technologies:
 The dataset used in this project is based on the IBM HR Analytics Employee Attrition Dataset, which is publicly available on Kaggle.
 
 This dataset contains detailed employee information used to analyze workforce trends and employee attrition patterns.
-⭐ Features / Highlights
+⭐ *Features* / *Highlights*
 Business Problem
 
 Employee attrition is one of the biggest challenges faced by organizations. High turnover increases recruitment costs, affects productivity, and disrupts team stability.
@@ -34,7 +35,7 @@ Does salary influence employee turnover?
 Which job roles have the highest attrition risk?
 
 Without clear visual insights, identifying these trends becomes difficult.
-🎯 Goal of the Dashboard
+🎯 *Goal* *of* *the* *Dashboard*
 
 The primary objective of this dashboard is to create an interactive HR analytics tool that:
 
