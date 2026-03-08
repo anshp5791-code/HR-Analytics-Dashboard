@@ -77,3 +77,5 @@ Organizations can use these insights to improve hiring strategies, employee enga
 Data-Driven HR
 The dashboard transforms raw employee data into actionable insights, enabling HR teams to make smarter workforce decisions.
 
+![HR Dashboard](https://github.com/anshp5791-code/HR-Analytics-Dashboard/blob/main/HR-analytics-dashboard-snapshot.png)
+
